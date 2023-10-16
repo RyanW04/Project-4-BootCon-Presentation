@@ -1,2 +1,2 @@
 # Project-4-BootCon-Presentation
-Used a phishing tool to demonstrate how dangerous a simple phishing attempt can be against a company.
+My group used a phishing tool called SocialPhish to demonstrate how dangerous a simple phishing attempt can be against a company.
